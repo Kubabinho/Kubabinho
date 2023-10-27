@@ -1,1 +1,1 @@
-<h3 align="center">I'm a passionate student eager to explore the world of coding. I believe that programming is a powerful tool that enables us to bring our ideas to life and make a positive impact on the world. This GitHub repository serves as a documentation of my learning process, where I'll be sharing my coding projects and experiences.</h3>
+<h3 align="center">I'm a passionate student eager to explore the world of coding. This GitHub repository serves as a documentation of my learning process, where I'll be sharing my coding projects and experiences.</h3>
